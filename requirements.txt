@@ -1,0 +1,12 @@
+numpy
+pandas
+keras
+tensorflow
+tensorflow-recommenders
+matplotlib
+seaborn
+dython
+gensim
+sqlalchemy-mate==2.0.0.0 
+uszipcode
+python-Levenshtein
